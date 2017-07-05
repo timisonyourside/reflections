@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Sharing with other contributors.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Using git log or git diff, you are able to see all the changes to the remote that happened while you are offline.
