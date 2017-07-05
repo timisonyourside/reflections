@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 .git directory is created to track the repo metadata.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+The remote repository may have unapproved changes that you do not want to propogate to the local repo.
